@@ -5,7 +5,7 @@ import image from '../assets/images/img1.png'
 export const Projects = () => {
     return (
         <>
-            <div className={"projects-section"}>
+            <div className={"projects-section pt-5 mt-5"} style={{paddingLeft:"10rem"}}>
                 <div className="container row">
                     <div className="row">
                         <div className="col-sm-12 col-md-6 col-lg-4 mt-4">
